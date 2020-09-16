@@ -5,6 +5,7 @@ class Program
     static void Main(string[] args)
     {
         string contents = "";
+        //asdasdas
 
         System.Console.WriteLine("Öppnar byrålådan...");
 
