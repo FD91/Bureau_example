@@ -10,7 +10,7 @@ class Program
 
         while (true)
         {
-            System.Console.Write("Vad vill du lägga i BYRÅlådan: ");
+            System.Console.Write("Vad vill du lägga i lådan: ");
             string input = Console.ReadLine();
 
             if (input.ToLower() == "q" || input.ToLower() == "inget")
